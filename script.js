@@ -20,3 +20,4 @@ function vowelCount(str) {
     }
     return count;
 }
+console.log(vowelCount("Hello World")); // Output: 3
