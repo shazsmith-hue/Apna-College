@@ -20,3 +20,4 @@ function vowelCount(str) {
     }
     return count;
 }
+done
